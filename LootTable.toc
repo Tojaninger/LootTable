@@ -1,0 +1,10 @@
+## Interface: 70300
+## Title: LootTable
+## Author: Rycroft
+## Version: 0.1
+
+embeds.xml
+
+AceGUIContainer-LootTableFrame.lua
+main.lua
+database.lua

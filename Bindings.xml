@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="Toggle Loottable" header="Loot Table">
+		lt_toggle()
+	</Binding>
+</Bindings>
